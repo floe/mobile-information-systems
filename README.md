@@ -2,7 +2,7 @@
 
 ## Preface
 
-This repository contains lecture materials (mostly slide sets) for a graduate course in mobile information systems. This course was initially held at [Bauhaus-Universität Weimar](https://www.uni-weimar.de/) in the summer semester 2015 for M.Sc. students in the [Computer Science and Media](http://www.uni-weimar.de/en/media/studies/computer-science-and-media-hci/medieninformatik-computer-science-and-media-msc/)degree. Prerequisites are a bachelor's degree in computer science and good programming skills (theoretical as well as practical) in Java.
+This repository contains lecture materials (mostly slide sets) for a graduate course in mobile information systems. This course was initially held at [Bauhaus-Universität Weimar](https://www.uni-weimar.de/) in the summer semester 2015 for M.Sc. students in the [Computer Science and Media](http://www.uni-weimar.de/en/media/studies/computer-science-and-media-hci/medieninformatik-computer-science-and-media-msc/) degree. Prerequisites are a bachelor's degree in computer science and good programming skills (theoretical as well as practical) in Java.
 
 ## License
 
