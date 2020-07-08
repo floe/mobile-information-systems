@@ -22,7 +22,7 @@ Where possible, I have tagged material from external sources with CC (also under
 
 ## Contents
 
-The course currently spans 11 weekly sessions with the following topics:
+The course currently spans 12 weekly sessions with the following topics:
 
 * Introduction & Basics
 * Big Issues
@@ -35,8 +35,11 @@ The course currently spans 11 weekly sessions with the following topics:
 * Augmented Reality
 * Android Internals
 * Case Studies
+* Mobile Algorithms
 
 The course is usually accompanied by an Android-based exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
+
+A video recording of the entire course (except lectures 10 and 12) is available on [Youtube](), also with CC license.
 
 ## git and ODT
 
