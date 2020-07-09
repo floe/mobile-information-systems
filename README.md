@@ -35,7 +35,7 @@ The course currently spans 12 weekly sessions with the following topics:
 * Augmented Reality
 * Android Internals
 * Case Studies
-* Mobile Algorithms
+* Mobile Algorithms (TODO: move Trickle from #8 here)
 
 The course is usually accompanied by an Android-based exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
 
