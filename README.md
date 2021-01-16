@@ -10,7 +10,7 @@ Some material was contributed by Prof. Dr. Matthias Kranz (University of Passau)
 
 ## License
 
-Original copyright (c) 2015 by [Florian Echtler](http://www.uni-weimar.de/en/media/chairs/mobile-media/). All material is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC-BY-SA-NC](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png).
+Original copyright © 2015 by [Florian Echtler](http://www.uni-weimar.de/en/media/chairs/mobile-media/). All material is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC-BY-SA-NC](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png).
 
 As a very brief summary, this means that you can freely use these materials as long as you:
 
