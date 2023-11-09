@@ -27,15 +27,14 @@ The course currently spans 12 weekly sessions with the following topics:
 * Introduction & Basics
 * Big Issues
 * Networks & Location
-* I/O on Small Screens Part 1
-* I/O on Small Screens Part 2
+* I/O on Small Screens Part 1 & 2
 * Usage Context
 * Privacy & Security
 * UbiComp & IoT
-* Augmented Reality
+* Mixed Reality
 * Android Internals
 * Case Studies
-* Mobile Algorithms (TODO: move Trickle from #8 here)
+* Mobile Algorithms
 
 The course is usually accompanied by an Android-based exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
 
