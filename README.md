@@ -22,7 +22,7 @@ Where possible, I have tagged material from external sources with CC (also under
 
 ## Contents
 
-The course currently spans 12 weekly sessions with the following topics:
+The course currently spans 10 weekly sessions with the following topics:
 
 * Introduction & Basics
 * Big Issues
@@ -32,8 +32,11 @@ The course currently spans 12 weekly sessions with the following topics:
 * Privacy & Security
 * UbiComp & IoT
 * Mixed Reality
-* Android Internals
 * Case Studies
+
+There's also two extra lectures which are very topic-specific and might not work for some audiences:
+
+* Android Internals
 * Mobile Algorithms
 
 The course is usually accompanied by an Android-based exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
