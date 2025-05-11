@@ -1,4 +1,6 @@
-# _Mobile Information Systems_ lecture materials
+# Moved to Codeberg: https://codeberg.org/floe/mobile-information-systems
+
+## _Mobile Information Systems_ lecture materials
 
 ## Preface
 
